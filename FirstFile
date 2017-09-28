@@ -1,0 +1,13 @@
+include  hpp.h
+include  abb.h
+
+main(void)
+{
+  int i,j;
+  int temp;
+  
+  input(i,j,d%,d%);
+  
+  wrint("i is:",i, "/////","j is:", j);
+  
+}
